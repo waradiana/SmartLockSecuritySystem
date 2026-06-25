@@ -3,10 +3,10 @@
 ---
 
 ## Identitas Penulis
-* **Nama** : Made Waradiana Aryadi
-* **NIM** : 2115101040
-* **Program Studi** : Ilmu Komputer
-* **Jurusan** : Teknik Informatika
+* **Nama**     : Made Waradiana Aryadi
+* **NIM**      : 2115101040
+* **Prodi**    : Ilmu Komputer
+* **Jurusan**  : Teknik Informatika
 * **Fakultas** : Teknik dan Kejuruan
 * **Instansi** : Universitas Pendidikan Ganesha
 
