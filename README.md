@@ -1,1 +1,1 @@
-# Smar tLock Security System UPA TIK Undiksha
+# Smart Lock Security System UPA TIK Undiksha
